@@ -11,6 +11,7 @@ int main() {
     cin>>a;
     for(int i=0; i<a; i++){
         cin>>arr[i];
+        cout<<arr[i];
     }
 
     
