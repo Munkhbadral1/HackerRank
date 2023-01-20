@@ -12,10 +12,11 @@ int main() {
     for(int i=0; i<a; i++){
         cin>>arr[i];
     }
-    for(int c=a; c=0; c--){
-        cout<<arr[c]<<" ";
-    }
 
+    std::reverse(arr.begin(), arr.end());
+    for (const auto& i : arr) {
+        std::cout << i << ' ';
+    }
     
     return 0;
 }
