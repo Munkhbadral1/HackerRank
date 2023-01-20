@@ -11,10 +11,9 @@ int main() {
     cin>>a;
     for(int i=0; i<a; i++){
         cin>>arr[i];
-        while(a<0){
-            cout<<arr[a]<<" ";
-            a--;
-        }
+    }
+    for(int c=a; c<a; c--){
+        cout<<arr[c]<<" ";
     }
 
     
