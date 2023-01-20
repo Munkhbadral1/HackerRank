@@ -9,8 +9,7 @@
 
 def print_full_name(first, last):
     # Write your code here
-    string first=first_name
-    string last=last_name
+    print ("Hello",first_name,last_name,"! You just delved into python.")
 if __name__ == '__main__':
     first_name = input()
     last_name = input()
