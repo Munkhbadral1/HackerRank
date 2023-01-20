@@ -12,7 +12,7 @@ int main() {
     for(int i=0; i<a; i++){
         cin>>arr[i];
     }
-    for(int c=a; c<a; c--){
+    for(int c=a; c>0; c--){
         cout<<arr[c]<<" ";
     }
 
