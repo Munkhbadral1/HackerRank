@@ -18,5 +18,5 @@ import System.IO.Unsafe
 main :: IO()
 main = do
     n <- readLn :: IO Int
-    
+    forM_ [1..n] (\_ -> putStrLn "Hello World")
     -- Print "Hello World" on a new line 'n' times.
