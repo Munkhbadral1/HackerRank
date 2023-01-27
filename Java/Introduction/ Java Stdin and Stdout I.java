@@ -7,7 +7,8 @@ public class Solution {
         int a = scan.nextInt(); //a geh int turliin huwisagch. = ardah bol bainga baidag baih
         int b = scan.nextInt();
         int c = scan.nextInt();
-        scanner.close();        //bainga close hiideg baih.
+        //scanner.close(); ni ilvv baisan baiw
+        
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
