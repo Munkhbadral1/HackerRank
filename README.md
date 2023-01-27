@@ -1,19 +1,19 @@
-# HackerRank
+# HackerRank.com
 ---
-### Topics
+## Topics
 ---
-* **Algorithms**
-* **Artificial Intelligence**
-* **Java**
-* **SQL**
-* **Functional Programming**
+* **Algorithms**<!--
+* **Artificial Intelligence**-->
+* **Java**<!--
+* **SQL**-->
+* **Functional Programming**<!--
 * **Data Structures**
-* **C**
-* **Python**
+* **C**-->
+* **Python**<!--
 * **Databases**
 * **Regex**
-* **Mathematics**
+* **Mathematics**-->
 * **C++**
-* **Ruby**
-* **Linux Shell**
+* **Ruby**<!--
+* **Linux Shell**-->
 ---
