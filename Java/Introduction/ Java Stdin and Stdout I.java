@@ -17,6 +17,7 @@ public class Solution {
     }
 }
 //Scanner class ashiglaj stdin
+
 //------------- JISHEE -------------
 //Scanner scanner = new Scanner(System.in);
 //String myString = scanner.next();
