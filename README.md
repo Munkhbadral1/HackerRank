@@ -1,19 +1,20 @@
 # HackerRank.com
 ---
+## Certification
+---
 ## Topics
 ---
-* **Algorithms**
-* **Artificial Intelligence**
 * **Java**
-* **SQL**
+  * Introduction
 * **Functional Programming**
-* **Data Structures**
-* **C**
 * **Python**
-* **Databases**
-* **Regex**
-* **Mathematics**
+  * Introduction
+  * Strings
 * **C++**
-* **Ruby**
+  * Introduction
+  * Classes
+  * STL
+  * Inheritance
 * **Linux Shell**
+  * Bash
 ---
