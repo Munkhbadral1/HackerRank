@@ -21,22 +21,22 @@
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Ruby.svg" alt="Ruby" style="width:20px;"/> **Ruby**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/LinuxShell.svg" alt="Linux Shell" style="width:20px;"/> **Linux Shell**
 ---
-* **Java**
-  * Introduction
-  * Strings
-  * BigNumber
-  * Data Structures
-  * Object Oriented Programming
-  * Exception Handling
-  * Advanced
-* **Functional Programming**
-* **Python**
-  * Introduction
-  * Strings
-* **C++**
-  * Introduction
-  * Classes
-  * STL
-  * Inheritance
-* **Linux Shell**
-  * Bash
+- [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg" alt="Java" style="width:20px;"/> **Java**
+  - [ ] Introduction
+  - [ ] Strings
+  - [ ] BigNumber
+  - [ ] Data Structures
+  - [ ] Object Oriented Programming
+  - [ ] Exception Handling
+  - [ ] Advanced
+- [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/FunctionalProgramming.svg" alt="Functional Programming" style="width:20px;"/> **Functional Programming**
+- [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Python.svg" alt="Python" style="width:20px;"/> **Python**
+  - [ ] Introduction
+  - [ ] Strings
+- [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/C++.svg" alt="C++" style="width:20px;"/> **C++**
+  - [ ] Introduction
+  - [ ] Classes
+  - [ ] STL
+  - [ ] Inheritance
+- [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/LinuxShell.svg" alt="Linux Shell" style="width:20px;"/> **Linux Shell**
+  - [ ] Bash
