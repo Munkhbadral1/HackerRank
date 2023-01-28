@@ -20,3 +20,4 @@
 * **Linux Shell**
   * Bash
 ---
+- [x] #739
