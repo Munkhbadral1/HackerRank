@@ -20,6 +20,7 @@
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/C++.svg" alt="C++" style="width:20px;"/> **C++**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Ruby.svg" alt="Ruby" style="width:20px;"/> **Ruby**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/LinuxShell.svg" alt="Linux Shell" style="width:20px;"/> **Linux Shell**
+## Working on
 ---
 - [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg" alt="Java" style="width:20px;"/> **Java**
   - [ ] Introduction
@@ -34,7 +35,7 @@
   - [ ] Introduction
   - [ ] Strings
 - [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/C++.svg" alt="C++" style="width:20px;"/> **C++**
-  - [ ] Introduction
+  - [x] Introduction :tada:
   - [ ] Classes
   - [ ] STL
   - [ ] Inheritance
