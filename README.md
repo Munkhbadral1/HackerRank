@@ -6,7 +6,7 @@
 ---
 ## Topics in HackerRank
 ---
-* **Algorithms** <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Algorithm.svg" alt="Algorithms" style="width:50px;"/>
+* **Algorithms** <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Algorithm.svg" alt="Algorithms" style="width:20px;"/>
 * **Artificial Intelligence** <img src="" alt="Artificial Intelligence" style="width:50px;"/>
 * **Java** <img src="" alt="Java" style="width:50px;"/>
 * **SQL** <img src="" alt="SQL" style="width:50px;"/>
