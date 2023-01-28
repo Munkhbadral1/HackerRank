@@ -13,7 +13,7 @@
   - [ ] Introduction
   - [ ] Strings
 - [ ] **C++**
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] Classes
   - [ ] STL
   - [ ] Inheritance
