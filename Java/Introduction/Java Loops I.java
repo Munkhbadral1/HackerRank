@@ -13,9 +13,12 @@ public class Solution {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
         int N = Integer.parseInt(bufferedReader.readLine().trim());
-        for(int i=0; i<N; i++){
-            System.out.printf("2 x ", i, " = ", i*2);
+
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(N + " x " + i + " = " + N*i);    //
         }
+
         bufferedReader.close();
     }
 }
