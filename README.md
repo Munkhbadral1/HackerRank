@@ -41,3 +41,5 @@
   - [ ] Inheritance
 - [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/LinuxShell.svg" alt="Linux Shell" style="width:20px;"/> **Linux Shell**
   - [ ] Bash
+
+:EMOJICODE:
