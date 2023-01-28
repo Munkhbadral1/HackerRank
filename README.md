@@ -5,7 +5,6 @@
 ## Certification
 ---
 ## Topics in HackerRank
----
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Algorithm.svg" alt="Algorithms" style="width:20px;"/> **Algorithms**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/AI.svg" alt="Artificial Intelligence" style="width:20px;"/> **Artificial Intelligence**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg" alt="Java" style="width:20px;"/> **Java**
@@ -20,8 +19,8 @@
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/C++.svg" alt="C++" style="width:20px;"/> **C++**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Ruby.svg" alt="Ruby" style="width:20px;"/> **Ruby**
 * <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/LinuxShell.svg" alt="Linux Shell" style="width:20px;"/> **Linux Shell**
-## My Preparation
 ---
+## My Preparation
 - [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Java.svg" alt="Java" style="width:20px;"/> **Java**
 - [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/FunctionalProgramming.svg" alt="Functional Programming" style="width:20px;"/> **Functional Programming**
 - [ ] <img src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Python.svg" alt="Python" style="width:20px;"/> **Python**
